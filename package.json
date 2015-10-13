@@ -12,6 +12,6 @@
     "url": "git://github.com/yarnjs/yarn-cli.git"
   },
   "dependencies": {
-    "yarnjs": "^0.4.0"
+    "yarnjs": "*"
   }
 }
