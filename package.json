@@ -1,0 +1,17 @@
+{
+  "name": "yarn-cli",
+  "version": "0.5.0",
+  "description": "yarn cli.",
+  "bin": {
+    "yarn": "./index.js"
+  },
+  "author": "Harry Wolff <hello@hswolff.com> (http://hswolff.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yarnjs/yarn-cli.git"
+  },
+  "dependencies": {
+    "yarnjs": "^0.4.0"
+  }
+}
