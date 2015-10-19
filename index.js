@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('yarnjs/bin/index');
+require('yarnjs/dist/bin/index');
