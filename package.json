@@ -3,7 +3,8 @@
   "version": "0.5.6",
   "description": "yarn cli.",
   "bin": {
-    "yarn": "./index.js"
+    "yarn": "./yarn.js",
+    "yarn-debug": "./yarn-debug.js"
   },
   "author": "Harry Wolff <hello@hswolff.com> (http://hswolff.com/)",
   "license": "MIT",
