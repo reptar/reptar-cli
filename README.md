@@ -1,3 +1,3 @@
-# yarn-cli
+# reptar-cli
 
-cli interface for yarn.
+deprecated.
